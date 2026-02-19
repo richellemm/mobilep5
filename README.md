@@ -11,13 +11,13 @@ Projeto desenvolvido em **React**, contendo duas páginas principais:
 
 1. Instale as dependências:
 
-```bash
 npm install
 
-Inicie o servidor de desenvolvimento:
+2. Inicie o servidor de desenvolvimento:
 
 npm run dev
 
+---
 🌐 Rotas da aplicação
 
 http://localhost:5173/
@@ -25,6 +25,8 @@ http://localhost:5173/
 
 http://localhost:5173/cadastro
  → Cadastro
+
+---
 
 🛠️ Tecnologias utilizadas
 
@@ -35,6 +37,8 @@ React Router DOM
 Chakra UI
 
 Vite
+
+---
 
 📌 Observação
 
